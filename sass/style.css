@@ -621,11 +621,11 @@ ol {
   list-style: none;
   padding: 0;
 }
-.footer-section .container .row .col-md-4 ul li {
+.footer-section .container .row .col-md-4 ul li a {
   color: #aaa;
   transition: 0.5s ease;
 }
-.footer-section .container .row .col-md-4 ul li:hover {
+.footer-section .container .row .col-md-4 ul li a:hover {
   color: #ffb320;
   cursor: pointer;
 }
